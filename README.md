@@ -1,6 +1,8 @@
 # Automação de Testes com Robot Framework - Preenchimento de Formulário 
 
-Este projeto tem como objetivo automatizar testes para o formulário de prática do DemoQA , garantindo qualidade e funcionalidade. Utilizando Robot Framework , SeleniumLibrary e o padrão Page Object Model (POM) , foram implementados testes funcionais, enfrentando desafios como anúncios sonoros e ausência de IDs exclusivos, superados com localizadores avançados e esperanças explícitas.
+Este projeto tem como objetivo automatizar testes para o formulário de prática do DemoQA , garantindo qualidade e funcionalidade. Para mais detalhes, confira a [documentação completa aqui!](https://github.com/Susana-Bergamo/demoqa.praticeform-robotframework/blob/main/Documenta%C3%A7%C3%A3o%20Pratice%20Form%20-%20DemoQA%20%20Susana%20Bergamo%20%20Robot%20Framework%20.pdf)
+
+Utilizando Robot Framework , SeleniumLibrary e o padrão Page Object Model (POM) , foram implementados testes funcionais, enfrentando desafios como anúncios sonoros e ausência de IDs exclusivos, superados com localizadores avançados e esperanças explícitas.
 
 ## Ferramentas Utilizadas
 * IDE: Visual Studio Code (VS Code)
