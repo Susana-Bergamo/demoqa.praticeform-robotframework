@@ -1,0 +1,19 @@
+# Diretórios de dependências
+.venv/
+
+# Diretórios de navegador
+browser/
+
+# Diretórios de saída do Robot Framework
+output/
+reports/
+logs/
+
+# Arquivos de evidência
+*.png
+*.xml
+*.html
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
